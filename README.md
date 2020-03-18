@@ -1,1 +1,1 @@
-ftnm.gitnub.io
+ftnm.github.io
